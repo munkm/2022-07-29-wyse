@@ -22,6 +22,7 @@ The material in this lesson has been influenced by the following material:
 * [Awesome Nuclear](https://github.com/paulromano/awesome-nuclear) a curated
   list of many open source nuclear codes! You can see how varied computation is
   in nuclear and how so much of nuclear science is covered by these packages. 
+* [OpenMC Example Notebooks](https://github.com/openmc-dev/openmc/wiki/Example-Jupyter-Notebooks) are a group of jupyter notebooks that use the OpenMC radiation transport code. If you want to play around with a nuclear code, OpenMC is well-used and very accessible! 
 * [Cyberpunk Style Plots Using matplotlib](https://towardsdatascience.com/cyberpunk-style-with-matplotlib-f47404c9d4c5)
 * [Software Carpentry Intro to Python (Inflammation)](https://swcarpentry.github.io/python-novice-inflammation/01-intro/index.html)
 * [Software Carpentry Intro to Python (Gapminder)](http://swcarpentry.github.io/python-novice-gapminder/)
